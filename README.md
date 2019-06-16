@@ -1,2 +1,2 @@
 # aseprite-language-russian
-Russian Language for latest version Aseprite.
+Russian Language for [Aseprite](https://github.com/aseprite/aseprite).
