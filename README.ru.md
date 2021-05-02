@@ -1,4 +1,4 @@
-# aseprite-language-russian
+# Русский язык Aseprite
 Русский язык для [Aseprite](https://github.com/aseprite/aseprite).
 
 ## Установка
