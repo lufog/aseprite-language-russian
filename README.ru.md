@@ -8,4 +8,4 @@ Language: [En](README.md), Ru
 
 
 ## Переключение языка
-Перейдите в ```Edit``` -> ```Preferences``` на вкладке ```General``` переключите язык на ```ru```.
+Перейдите в ```Edit``` -> ```Preferences``` на вкладке ```General``` переключите язык на ```Russian```.
