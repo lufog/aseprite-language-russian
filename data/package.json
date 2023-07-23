@@ -8,13 +8,24 @@
     "email": "debugger94@gmail.com",
     "url": "https://github.com/lufog/aseprite-language-russian"
   },
-  "contributors": [ "lufog" ],
+  "contributors": [
+    {
+      "name": "lufog"
+    }
+  ],
   "publisher": "lufog",
   "license": "CC-BY-4.0",
-  "categories": [ "Languages" ],
+  "categories": [
+    "Languages"
+  ],
   "contributes": {
     "languages": [
-      { "id": "ru", "path": "./ru.ini", "displayName": "Russian" }
+      {
+        "id": "ru",
+        "path": "./ru.ini",
+        "englishName": "Russian",
+        "displayName": "Русский"
+      }
     ]
   }
 }
