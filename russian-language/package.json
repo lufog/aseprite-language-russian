@@ -1,20 +1,20 @@
 {
   "name": "russian-language",
-  "displayName": "Russian Language",
-  "description": "",
+  "displayName": "Russian Translation",
+  "description": "Translation to Russian by Aleksey Smirnov (aka lufog)",
   "version": "1.2.40",
   "author": {
-	"name": "Aleksey Smirnov (aka Lufog)",
+	"name": "Aleksey Smirnov (aka lufog)",
     "email": "debugger94@gmail.com",
     "url": "https://github.com/lufog/aseprite-language-russian"
   },
-  "contributors": [ "lufog" ],
+  "contributors": [ ],
   "publisher": "lufog",
   "license": "CC-BY-4.0",
   "categories": [ "Languages" ],
   "contributes": {
     "languages": [
-	  { "id": "ru", "path": "./ru.ini"}
-	]
+      { "id": "ru", "path": "./ru.ini"}
+    ]
   }
 }
