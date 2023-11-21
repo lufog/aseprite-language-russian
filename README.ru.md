@@ -1,4 +1,4 @@
-Language: [En](README.md), Ru
+Язык: [English](README.md), Русский
 
 # Русский язык Aseprite
 Русский язык для графического редактора [Aseprite](https://github.com/aseprite/aseprite).
