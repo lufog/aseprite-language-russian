@@ -1,5 +1,10 @@
 Language: English, [Русский](README.ru.md)
 
+> [!WARNING]
+> Installation of this extension is no longer required as the translation is now [distributed](https://github.com/aseprite/strings) with [Aseprite](https://github.com/aseprite/aseprite).
+>
+> You can help translate [Aseprite](https://github.com/aseprite/aseprite) into other languages ​​at [WebLate](https://hosted.weblate.org/projects/aseprite/aseprite/).
+
 # Aseprite Russian Language
 Russian Language for the [Aseprite](https://github.com/aseprite/aseprite) graphic editor.
 
